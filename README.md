@@ -9,7 +9,7 @@ Used SQL to format columns, drop outliers, remove the hotel room type, change co
 Used SQL to learn more about the dataset. Described listings by room type and zip code, compared price vs. price per bedroom. Determined that prices are higher during special events such as SXSW and ACL, being a superhost doesn’t have any effect on price, and found which amenities have the most effect on pricing.
 
 ## Tableau
-Created a dashboard with 5 visualizations and 4 KPIs. You can view the full dashboard [here]( https://public.tableau.com/app/profile/andrea.bernal/viz/airbnb_16505703431140/Dashboard1?publish=yes).
+Created a dashboard with 5 KPIs and 5 visualizations with Calculated Fields, Dual-Axis Maps, and Filters. You can view the full dashboard [here]( https://public.tableau.com/app/profile/andrea.bernal/viz/airbnb_16505703431140/Dashboard1?publish=yes).
 
 ## Findings 
 * Price increases during events such as SXSW and ACL
